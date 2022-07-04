@@ -28,5 +28,6 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 
 ## Summary: 
+From all of the models used to analyse the most effective was Random Forest Classifier with the highest accuracy score of 0.995. 
 
 
