@@ -9,13 +9,17 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 - Random Oversampling: 
 ![oversampling](https://github.com/Lesliec87/Credit_Risk_Analysis/blob/main/Resources/oversampling.png)
 
-- Smote: 
+- Smote Oversampling:
+![smote]([)](https://github.com/Lesliec87/Credit_Risk_Analysis/blob/main/Resources/smote.png)
 
-- Undersampling:
+- Undersampling (ClusterCentroids):
+![undersampling](https://github.com/Lesliec87/Credit_Risk_Analysis/blob/main/Resources/Undersampling.png)
 
-- Combination Sampling: 
+- Combination Sampling (Smoteen): 
+![smoteen]([)](https://github.com/Lesliec87/Credit_Risk_Analysis/blob/main/Resources/Smooten.png)
 
 - Balance Random Forest Classifier:
+![forest](https://github.com/Lesliec87/Credit_Risk_Analysis/blob/main/Resources/forest%20classifier.png)
 
 
 ## Summary: 
